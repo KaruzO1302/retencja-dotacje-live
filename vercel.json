@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://awarie24h.pl/montaz-zbiornikow-na-deszczowke/",
+      "permanent": true
+    }
+  ]
+}
